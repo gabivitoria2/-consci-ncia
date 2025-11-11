@@ -54,6 +54,7 @@ nav a:hover {
   color: white;
   padding: 2rem;
   text-align: center;
+  height: 100vh;
 }
 
 .song-card {
